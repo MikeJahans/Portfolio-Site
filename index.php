@@ -120,7 +120,7 @@
 
                     <i class="material-icons" id="video-editor-icon">movie_creation</i>
 
-                    <p>Having edited videos for almost a decade - since 2011 - and doing so professionally since 2018, I have experience with just about every field there is. From vlogs and advertisemets to documentaries, list videos, and all the way to logo animations, I can edit the video you desire.</p>
+                    <p>Having edited videos for almost a decade - since 2011 - and doing so professionally since 2018, I have experience with just about every field there is. From vlogs and advertisemets to documentaries, list videos, and even logo animations, I can definitely edit the video you desire.</p>
 
                 </div>
 
@@ -132,7 +132,7 @@
 
                     <i class="material-icons" id="web-designer-icon">desktop_mac</i>
 
-                    <p>Having edited videos for almost a decade - since 2011 - and doing so professionally since 2018, I have experience with just about every field there is. From vlogs and advertisemets to documentaries, list videos, and all the way to logo animations, I can edit the video you desire.</p>
+                    <p>With over 2 years of study and a few gigs here and there, I can create a great website for your blog, business, or company. Whether you want a static site or something with more bells and whistles, I'll provide exactly that, with a slick appearance and smooth performance.</p>
 
                 </div>
 
@@ -144,7 +144,7 @@
 
                     <i class="material-icons" id="game-developer-icon">sports_esports</i>
 
-                    <p>Having edited videos for almost a decade - since 2011 - and doing so professionally since 2018, I have experience with just about every field there is. From vlogs and advertisemets to documentaries, list videos, and all the way to logo animations, I can edit the video you desire.</p>
+                    <p>As someone who has been playing games since the age of two years old, I understand what it means to love a game and its mechanics. My goal with development is to inspire those same feelings to players, by providing a beautiful game with deep and fun mechanics. Whether you need a simple time-killing mobile game, or a deep and feature-rich experience for players to keep returning to, I can create exactly that.</p>
 
                 </div>
 

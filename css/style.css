@@ -363,9 +363,9 @@ nav a{
 
 #services-section{
     width: 100%;
-    background-color: #F1F1F1;
-
+    background-color: #612d3a;
     margin-top: 200px;
+    padding: 25px;
 
 
 
@@ -377,8 +377,9 @@ nav a{
 }
 
 #services-header{
-    padding-top: 25px;
+    font-size: 1.75em;
     text-align: center;
+    color: #eee;
 }
 
 #services-container{
@@ -400,6 +401,29 @@ nav a{
 #services-container p{
     text-align: start;
     margin-bottom: 10px;
+}
+
+.video-editor{
+    background-color: #F1F1F1;
+    border: 1px solid #333;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+
+.web-deigner{
+    background-color: #F1F1F1;
+    border: 1px solid #333;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+
+.game-developer{
+    background-color: #F1F1F1;
+    border: 1px solid #333;
+    border-radius: 20px;
+    padding: 20px;
 }
 
 #video-editor-icon{
